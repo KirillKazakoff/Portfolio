@@ -20,6 +20,7 @@ const eng = {
             'HTML, CSS, SCSS, BEM-metodology, having experience with CSS-IN-JS',
             'GIT',
             'Webpack',
+            'Unit, e2e-tests',
         ],
     },
     portfolio: {
@@ -67,6 +68,8 @@ const ru: ContentT = {
             'HTML, CSS, SCSS, БЭМ, опыт работы с CSS-IN-JS',
             'GIT',
             'Webpack',
+
+            'Unit, e2e-тесты',
         ],
     },
     portfolio: {
