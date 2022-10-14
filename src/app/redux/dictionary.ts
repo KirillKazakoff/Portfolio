@@ -64,11 +64,10 @@ const ru: ContentT = {
             'TypeScript',
             'React, React-Router',
             'Redux',
-            'Протокол HTTP/HTTPS, опыт взаиодействия с серверным API, Node.js. Ознакомлен с воркерами (ServiceWorker, WebWorker)',
+            'Протокол HTTP/HTTPS, WebSocket, опыт взаиодействия с серверным API, Node.js. Ознакомлен с воркерами (ServiceWorker, WebWorker)',
             'HTML, CSS, SCSS, БЭМ, опыт работы с CSS-IN-JS',
             'GIT',
             'Webpack',
-
             'Unit, e2e-тесты',
         ],
     },

@@ -34,11 +34,12 @@ export default function Contacts() {
                 <li className='socials__item'>
                     <a
                         className='socials__item-link'
-                        href='https://www.instagram.com/greenporkrealtalk'
+                        href='https://github.com/KirillKazakoff/'
                     >
                         <img
-                            className='socials__item-img' src='./svg/ig.svg'
-                            alt='ig'
+                            className='socials__item-img'
+                            src='./svg/git.svg'
+                            alt='git'
                         />
                     </a>
                 </li>
