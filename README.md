@@ -56,4 +56,4 @@ yarn start
  [PlWebpack]: <https://github.com/webpack/webpack/blob/main/README.md>
  [PlReactLazyLoad]: https://github.com/Aljullu/react-lazy-load-image-component/blob/master/README.md
 
-[GitHubPages]:https://kirillkazakoff.github.io/portfolio/
+[GitHubPages]:https://kirillkazakoff.github.io/Portfolio/
