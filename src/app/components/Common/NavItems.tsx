@@ -10,7 +10,7 @@ export default function NavItems() {
     const hrefs = ['/#main', '/#about-hyper', '/#skills', '/#portfolio', '/#contacts'];
 
     const dispatch = useAppDispatch();
-    const onClick = (href: string) => (e: React.SyntheticEvent) => {
+    const onClick = (href: string) => () => {
         document.body.classList.remove('body--non-overflow');
         dispatch(hidePopup());
 
