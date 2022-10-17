@@ -1,10 +1,7 @@
 # Портфолио
 
-<span style="font-size: 20px">Ссылка на сайт: [**GitHubPages**][GitHubPages]</span>
+> ## Ссылка на сайт: [**GitHubPages**][GitHubPages]
 
-</br>
-
-<span style="font-size: 20px">Оглавление</span>
 
 [![Build status](https://ci.appveyor.com/api/projects/status/n1u5nli4jj7wqkqo?svg=true)](https://ci.appveyor.com/project/KirillKazakoff/portfolio)
 
