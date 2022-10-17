@@ -29,9 +29,12 @@ const eng = {
             {
                 main: 'Main Project',
                 title: 'Railway ticket booking system',
-                desc: 'React-Redux (only PC screen)',
+                desc: 'React-Redux + TS (only PC screen)',
             },
-            { title: 'WhatsAppBot', desc: 'JS-Node.js (only PC screen)' },
+            {
+                title: 'WhatsApp Notes',
+                desc: 'JS-Node.js + WebWorker, ServiceWorker (only PC screen)',
+            },
             { title: 'Online-chat', desc: 'WebSocket (only PC screen)' },
             { title: 'Card recognizer', desc: 'Unit and e2e-tests (only PC screen)' },
             { title: 'Site-blog', desc: 'HTML-CSS (adaptive)' },
@@ -79,11 +82,11 @@ const ru: ContentT = {
             {
                 main: 'Главный Проект',
                 title: 'Система бронирования ЖД билетов',
-                desc: 'React-Redux (только для ПК мониторов)',
+                desc: 'React-Redux + TS (только для ПК мониторов)',
             },
             {
-                title: 'WhatsAppBot',
-                desc: 'JS-Node.js (только для ПК мониторов)',
+                title: 'WhatsApp Notes',
+                desc: 'JS-Node.js + WebWorker, ServiceWorker (только для ПК мониторов)',
             },
             { title: 'Онлайн-чат', desc: 'WebSocket (только для ПК-мониторов)' },
             {

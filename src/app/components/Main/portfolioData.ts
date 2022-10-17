@@ -8,7 +8,7 @@ export const portfolioData = [
     {
         src: './img/projects/js.png',
         alt: 'JS-project',
-        href: 'https://github.com/KirillKazakoff/WhatsUpBot',
+        href: 'https://github.com/KirillKazakoff/WhatsUp-Notes',
         isMain: false,
     },
     {
