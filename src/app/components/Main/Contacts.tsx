@@ -34,20 +34,24 @@ export default function Contacts() {
                 <li className='socials__item'>
                     <a
                         className='socials__item-link'
-                        href='https://github.com/KirillKazakoff/'
+                        href='https://www.linkedin.com/in/kirillkazakoff'
                     >
                         <img
                             className='socials__item-img'
-                            src='./svg/git.svg'
-                            alt='git'
+                            src='./svg/linkedIn.svg'
+                            alt='linkedIn'
                         />
                     </a>
                 </li>
                 <li className='socials__item'>
-                    <a className='socials__item-link' href='https://m.vk.com/kotvhlebe'>
+                    <a
+                        className='socials__item-link'
+                        href='https://stackoverflow.com/users/16492740/kirill-kazakov'
+                    >
                         <img
-                            className='socials__item-img' src='./svg/vk.svg'
-                            alt='vk'
+                            className='socials__item-img'
+                            src='./svg/stackOverflow.svg'
+                            alt='stackOverflow'
                         />
                     </a>
                 </li>
