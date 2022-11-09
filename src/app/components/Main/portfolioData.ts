@@ -12,6 +12,12 @@ export const portfolioData = [
         isMain: false,
     },
     {
+        src: './img/projects/crud.png',
+        alt: 'Angular-crud',
+        href: 'https://github.com/KirillKazakoff/crudAngular',
+        isMain: false,
+    },
+    {
         src: './img/projects/chat.png',
         alt: 'Chat-project',
         href: 'https://github.com/KirillKazakoff/chatFrontend',

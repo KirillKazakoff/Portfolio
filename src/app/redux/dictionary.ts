@@ -35,6 +35,10 @@ const eng = {
                 title: 'WhatsApp Notes',
                 desc: 'JS-Node.js + WebWorker, ServiceWorker (only PC screen)',
             },
+            {
+                title: 'Angular CRUD',
+                desc: 'Project on Angular with Template Driven Forms use (only PC screen)',
+            },
             { title: 'Online-chat', desc: 'WebSocket (only PC screen)' },
             { title: 'Card recognizer', desc: 'Unit and e2e-tests (only PC screen)' },
             { title: 'Site-blog', desc: 'HTML-CSS (adaptive)' },
@@ -87,6 +91,10 @@ const ru: ContentT = {
             {
                 title: 'WhatsApp Notes',
                 desc: 'JS-Node.js + WebWorker, ServiceWorker (только для ПК мониторов)',
+            },
+            {
+                title: 'Angular CRUD',
+                desc: 'Проект на Angular с использованием Template Driven Forms (только для ПК мониторов)',
             },
             { title: 'Онлайн-чат', desc: 'WebSocket (только для ПК-мониторов)' },
             {
